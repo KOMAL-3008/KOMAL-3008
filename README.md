@@ -77,6 +77,12 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
+### 🛑🎞️🎥 Live Webinars
+
+![Microsoft Copilot](https://github.com/KOMAL-3008/Certificates/blob/main/microsoft%20and%20linkdin%20.ico)![PowerBI](https://github.com/KOMAL-3008/Certificates/blob/main/powerbi.ico)![Disney + Hotstar](https://github.com/KOMAL-3008/Certificates/blob/main/hotstar.ico)
+
+---
+
 ### 🏆🥇Certifications
 **My Certificates**
 
@@ -105,6 +111,20 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
 
 ---
+
+🛡️🎓**Udemy Certification**
+
+![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
+
+---
+
+🛡️🎓**Kulturehire Certification**
+
+![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
+
+---
+
+
 
 ### Let's Connect!
 
