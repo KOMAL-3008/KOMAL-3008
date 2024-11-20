@@ -80,8 +80,6 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
----
-
 👩🏻‍🔬 ⚛︎ **Data Science Certification**
 
 ![Linkdin Learning Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/data%20science.ico)|![HP Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/HP%20ANALYST.ico)
