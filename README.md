@@ -118,9 +118,8 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
-🛡🎓**Kulturehire Certification**
-
-![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
+📜🎓**Kulturehire Certification**
+![Excel2](https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel%202.ico)![Data Framework2](https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework%202.ico)![Data Cleaning2](https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning%202.ico)![problem solving+chatGPT](https://github.com/KOMAL-3008/Certificates/blob/main/problem%20solving%20%2B%20ChatGPT.ico)![servey + chatGPT](https://github.com/KOMAL-3008/Certificates/blob/main/servey%20design%20%2B%20ChatGPT.ico)
 
 ---
 
