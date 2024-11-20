@@ -71,17 +71,16 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ![Data Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/DA%20Internship.ico) ![Business Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/BA%20Internship.ico)
 
 ---
-### Forage Virtual Job Simulation
-💼🎯 **Forage Job Simulations Certification**
+### 💼🎯Forage Virtual Job Simulation Certification
 
 ![Accenture](https://github.com/KOMAL-3008/Certificates/blob/main/accenture.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata.ico)![Pwc](https://github.com/KOMAL-3008/Certificates/blob/main/Pwc.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata%20CyberSecurity.ico)![Goldman Sachs](https://github.com/KOMAL-3008/Certificates/blob/main/Excel.ico)
 
 ---
 
-### 🥇 Certifications
+### 🏆🥇Certifications
 **My Certificates**
 
-📈👩🏻‍💻📉**Data Analyst Certificates** 
+📈👩🏻‍💻📉**Data Analyst Certification** 
 
 ![Cisco Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/cisco.ico)![Linkdin Learning and Microsoft Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/microsoft%20and%20linkdin%20.ico)![Great Learning Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/Great%20Learning%20Data%20Analyst.ico)
 
