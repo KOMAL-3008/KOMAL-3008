@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=KOMAL-3008&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm KOMAL! 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/) 
