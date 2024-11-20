@@ -56,11 +56,10 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 - Analytical Thinking
 
 ---
-### Experience & Education
+### Education & Experience
 
-- 🎓 **Bachelor's in Computer Science & Engineering** from Daffodil International University, 2024
-- 🏅 Lead Executive, Data Science Club at DIU
-- 🛠️ **Certifications**: 3rd ELC from Sultan Agung Islamic University, Indonesia
+- 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
+- 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**
 
 ---
 ### 🥇 Achievements
