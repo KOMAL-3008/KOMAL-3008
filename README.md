@@ -66,10 +66,13 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ---
 ### 🥇 Certifications
 
-# My Certificates
+**My Certificates**
 
-## Certificate 1: Data Analyst Certification
+- 📈👩🏻‍💻📉 **Data Analyst Certificates**
+![Data Science Certificate](https://drive.google.com/file/d/1TZjZGRe6A4vWw3NAHjXG5r13A6rQYGcj/view?usp=sharing)
 ![Data Science Certificate](https://drive.google.com/uc?export=view&id=1aBcDeFgHiJkLmNoPQR)
+![Data Science Certificate](https://drive.google.com/uc?export=view&id=1aBcDeFgHiJkLmNoPQR)
+
 
 ## Certificate 2: Web Development Certification
 ![Web Development Certificate](https://drive.google.com/uc?export=view&id=2aBcDeFgHiJkLmNoPQR)
