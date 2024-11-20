@@ -32,7 +32,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ### Skills
 
-#### Programming
+#### Programming Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 #### Python Libraries
@@ -40,11 +40,11 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ![NumPY](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) 
 
-#### Web
+#### Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### Tools
+#### Tools And Technologies
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -57,18 +57,14 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 🔄 Adaptability  
 🤝 Team Collaboration
 
-#### Additional Skills
-- Data Statistics
-- Analytical Thinking
-
 ---
 ### Education & Experience
 
 - 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
-- 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**
+- 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
 
 ---
-### 🥇 Achievements
+### 🥇 Certifications
 
 # My Certificates
 
