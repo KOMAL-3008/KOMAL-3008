@@ -87,7 +87,7 @@ You can view my certificates [here](https://drive.google.com/your_certificate_li
 ![Certificate Image](https://drive.google.com/file/d/1DZg4QtxRg6Kpfv1JG2jpbitMn0bOT2oW/preview)
 
 https://drive.google.com/file/d//view?usp=sharing
-![Certificate Icon](https://drive.google.com/uc?export=view&id=1DZg4QtxRg6Kpfv1JG2jpbitMn0bOT2oW)
+![Certificate Icon](https://github.com/KOMAL-3008/Certificates/blob/main/Great%20Learning%20Data%20Analyst.ico)
 
 
 ---
