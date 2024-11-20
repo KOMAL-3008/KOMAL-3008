@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=KOMAL-3008&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm KOMAL! 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/KOMAL-3008)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-thakur-037b27232/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:komalofficework30@gmail.com)
 
@@ -76,9 +76,9 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-thakur-037b27232/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:komalofficework30@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/KOMAL-3008)
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
@@ -87,5 +87,5 @@ I’m always open to discussing new projects, ideas, or opportunities to collabo
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaun-mia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOMAL-3008&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
