@@ -72,11 +72,11 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 <div style="display: flex; justify-content: space-between;">
   
-**Insta Infotech Data Analyst Certificate**
+
 ![Insta Infotech Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/Insta%20Infotech.ico)
-**Linkdin Learning and Microsoft Data Analyst Certificate**
+
 ![Linkdin Learning and Microsoft Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/microsoft%20and%20linkdin%20.ico)
-**Great Learning Data Analyst Certificate**
+
 ![Great Learning Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/Great%20Learning%20Data%20Analyst.ico)
 
 </div>
