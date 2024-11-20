@@ -114,7 +114,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 🛡️🎓**Udemy Certification**
 
-![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
+(https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel.ico)(https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework.ico)(https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning.ico)
 
 ---
 
