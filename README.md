@@ -92,9 +92,8 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
-💼🎯 **Forage Job Simulations Certification**
-
-![Accenture](https://github.com/KOMAL-3008/Certificates/blob/main/accenture.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata.ico)![Pwc](https://github.com/KOMAL-3008/Certificates/blob/main/Pwc.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata%20CyberSecurity.ico)![Goldman Sachs](https://github.com/KOMAL-3008/Certificates/blob/main/Excel.ico)
+🛡️🎓**CISCO BADGE**
+![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
 
 ---
 
