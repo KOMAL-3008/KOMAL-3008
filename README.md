@@ -64,7 +64,13 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 - 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
 
 ---
+### Forage Virtual Job Simulation
+💼🎯 **Forage Job Simulations Certification**
+
+![Accenture](https://github.com/KOMAL-3008/Certificates/blob/main/accenture.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata.ico)![Pwc](https://github.com/KOMAL-3008/Certificates/blob/main/Pwc.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata%20CyberSecurity.ico)![Goldman Sachs](https://github.com/KOMAL-3008/Certificates/blob/main/Excel.ico)
 ### 🥇 Certifications
+
+---
 
 **My Certificates**
 
