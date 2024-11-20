@@ -80,6 +80,14 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
+---
+
+👩🏻‍🔬 ⚛︎ **Data Science Certification**
+
+![Linkdin Learning Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/data%20science.ico)|![HP Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/HP%20ANALYST.ico)
+
+---
+
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-thakur-037b27232/) 
