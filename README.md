@@ -84,7 +84,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 You can view my certificates [here](https://drive.google.com/your_certificate_link_here).
 
-![Certificate Icon](file:///C:/Users/ADMIN/Desktop/Great%20Learning%20Data%20Analyst.png)
+![Certificate Icon](https://drive.google.com/file/d/1L4s9BF5TfmkwE6HcXzfggvYDgAEiRBwH/view?usp=sharing)
 
 
 
