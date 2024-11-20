@@ -92,9 +92,9 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
-🛡️🎓**CISCO BADGE**
+🛡️🎓**Cisco Badge**
 
--  **LINK OF BADGE** from CISCO (https://www.credly.com/badges/65836f6d-3ec7-4d41-b788-09d96025e162/linked_in?t=smkxpy)
+-  **Link of badge** from CISCO (https://www.credly.com/badges/65836f6d-3ec7-4d41-b788-09d96025e162/linked_in?t=smkxpy)
 
 ![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
 
