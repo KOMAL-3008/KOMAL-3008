@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=KOMAL-3008&label=Profile%20Views&color=0e75b6&style=flat)
-# Hi there, I'm KOMAL! 🙋🏻‍♀️🤹🏻‍♀️
+# Hi there, I'm KOMAL! 🙋🏻‍♀️
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/KOMAL-3008)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-thakur-037b27232/)
@@ -64,8 +64,8 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 - 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
 
  **👩🏻‍🎓📜Kulturehire Internship Certification**
-**Link of Data Analyst Internship** from **Kulturehire** https://mycourse.app/ctsikrr7AS88i6fs6
-**Link of Business Analyst Internship** from **Kulturehire** https://kulturehire.com/certificate_v2/66da71fa6f5aee00d100ff4b/user/671658b54f0b28a412020a45
+- **Link of Data Analyst Internship** from **Kulturehire** https://mycourse.app/ctsikrr7AS88i6fs6
+- **Link of Business Analyst Internship** from **Kulturehire** https://kulturehire.com/certificate_v2/66da71fa6f5aee00d100ff4b/user/671658b54f0b28a412020a45
 ![Data Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/DA%20Internship.ico) ![Business Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/BA%20Internship.ico)
 
 ---
