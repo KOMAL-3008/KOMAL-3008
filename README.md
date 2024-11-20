@@ -68,7 +68,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 **My Certificates**
 
-- 📈👩🏻‍💻📉 **Data Analyst Certificates**
+# Data Analyst Certificates 📈👩🏻‍💻📉
 
 ![Cisco Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/cisco.ico)|![Linkdin Learning and Microsoft Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/microsoft%20and%20linkdin%20.ico)|![Great Learning Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/Great%20Learning%20Data%20Analyst.ico)
 
