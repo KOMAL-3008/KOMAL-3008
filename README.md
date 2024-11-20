@@ -80,6 +80,13 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ## Certificate 3: Machine Learning Certification
 ![Machine Learning Certificate](https://drive.google.com/uc?export=view&id=3aBcDeFgHiJkLmNoPQR)
 
+# My Portfolio
+
+You can view my certificates [here](https://drive.google.com/your_certificate_link_here).
+
+![Certificate Icon](file:///C:/Users/ADMIN/Desktop/Great%20Learning%20Data%20Analyst.png)
+
+
 
 ---
 
