@@ -114,7 +114,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 🛡️🎓**Udemy Certification**
 
-(https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel.ico)(https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework.ico)(https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning.ico)
+![Excel udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel.ico)![Data Framework udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework.ico)![Data Cleaning udemy](https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning.ico)
 
 ---
 
