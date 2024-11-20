@@ -106,7 +106,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 :octocat: **GITHUB BOOTCAMP COURSE CERTIFICATE**
 
-![Github Certificate]()
+![Github Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/github.ico)
 
 ---
 
