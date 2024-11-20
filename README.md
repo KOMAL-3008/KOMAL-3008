@@ -94,6 +94,8 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 🛡️🎓**CISCO BADGE**
 
+-  **LINK OF BADGE** from CISCO
+
 ![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
 
 ---
