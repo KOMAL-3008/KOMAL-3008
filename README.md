@@ -63,7 +63,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 - 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
 - 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
 
- **👩🏻‍🎓📜Kulturehire Internship Certification**
+ **👩🏻‍🎓🗞️Kulturehire Internship Certification**
  
 - **Link of Data Analyst Internship** https://mycourse.app/ctsikrr7AS88i6fs6
 - **Link of Business Analyst Internship** https://kulturehire.com/certificate_v2/66da71fa6f5aee00d100ff4b/user/671658b54f0b28a412020a45
@@ -112,13 +112,13 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
-🛡️🎓**Udemy Certification**
+📜🎓**Udemy Certification**
 
 ![Excel udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel.ico)![Data Framework udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework.ico)![Data Cleaning udemy](https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning.ico)
 
 ---
 
-🛡️🎓**Kulturehire Certification**
+🛡🎓**Kulturehire Certification**
 
 ![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
 
