@@ -43,6 +43,9 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab)
 ![AI Tools](https://img.shields.io/badge/-ChatGPT-00B37E?style=flat&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-2B2B2B?style=flat&logo=microsoft&logoColor=white)
 
