@@ -42,6 +42,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 #### Tools And Technologies
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets)
 ![MIS](https://img.shields.io/badge/-MIS-217346?style=flat&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
