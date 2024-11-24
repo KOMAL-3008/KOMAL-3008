@@ -36,7 +36,6 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) 
 
 #### Web Development
-![WsCube Tech](https://img.shields.io/badge/-WsCube%20Tech-FFFFFF?style=flat&labelColor=FFFFFF&logoColor=00ADEF&color=000000)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
