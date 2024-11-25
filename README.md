@@ -142,5 +142,4 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
----
 
