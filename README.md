@@ -14,17 +14,6 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 ---
 
-### Projects & Work
-
-- **[Power BI Data Analysis Project](https://github.com/shaun-mia/Power-BI-Data-Analysis-Project)**: In this repository, I’m excited to share my Power BI data analysis projects. These projects showcase my ability to use Power BI for data visualization and analysis, helping to transform raw data into insightful dashboards and reports.
-
-- **[SQL Data Analysis Project](https://github.com/shaun-mia/SQL-Data-Analysis-Project)**: In this repository, I’m excited to share some of the SQL data analysis projects I’ve worked on. These projects highlight my skills in using SQL to extract, clean, and analyze data.
-- **[Excel Data Analysis Project](https://github.com/shaun-mia/Excel-Data-Analysis-Project)**: In this repository, I’m excited to share my Excel data analysis projects. These projects highlight my ability to use Excel for organizing, analyzing, and visualizing data effectively.
-
-- **[Python Data Analysis Project](https://github.com/shaun-mia/Python-Data-Analysis-Project)**: A team project aimed at automating store operations.
-
----
-
 ### Skills
 
 #### Programming Language
@@ -63,7 +52,9 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 ### Education & Experience
 
 - 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
-- 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
+- 🏅 **Internships**:
+- KultureHire Internship In **DATA ANALYTICS** and **BUSINESS ANALYTICS**, 2024
+- Oasis Internship In **DATA ANALYTICS**, 2024-2025
  
 ### Let's Connect!
 
