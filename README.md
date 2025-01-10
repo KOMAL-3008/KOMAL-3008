@@ -1,4 +1,4 @@
-# Hi there, I'm KOMAL! 🙋🏻‍♀️
+<h1 align="center"> Hi there, Its me KOMAL! 🙋🏻‍♀️</h1>
 ---
 
 ### About Me
