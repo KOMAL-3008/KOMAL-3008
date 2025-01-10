@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=KOMAL-3008&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm KOMAL! 🙋🏻‍♀️
 ---
 
@@ -64,76 +63,7 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 
 - 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
 - 🏅 **Internships**: KultureHire Internship In **DATA ANALYST** and **BUSINESS ANALYST**, 2024
-
- **👩🏻‍🎓🗞️Kulturehire Internship Certification**
  
-- **Link of Data Analyst Internship** https://mycourse.app/ctsikrr7AS88i6fs6
-- **Link of Business Analyst Internship** https://kulturehire.com/certificate_v2/66da71fa6f5aee00d100ff4b/user/671658b54f0b28a412020a45
-  
-![Data Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/DA%20Internship.ico) ![Business Analyst](https://github.com/KOMAL-3008/Certificates/blob/main/BA%20Internship.ico)
-
----
-### 💼🎯Forage Virtual Job Simulation Certification
-
-![Accenture](https://github.com/KOMAL-3008/Certificates/blob/main/accenture.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata.ico)![Pwc](https://github.com/KOMAL-3008/Certificates/blob/main/Pwc.ico)![Tata](https://github.com/KOMAL-3008/Certificates/blob/main/Tata%20CyberSecurity.ico)![Goldman Sachs](https://github.com/KOMAL-3008/Certificates/blob/main/Excel.ico)
-
----
-
-### 🛑🎞️🎥 Live Webinars
-
-![Microsoft Copilot](https://github.com/KOMAL-3008/Certificates/blob/main/Microsoft%20Copilot.ico)![PowerBI](https://github.com/KOMAL-3008/Certificates/blob/main/powerbi.ico)![Disney + Hotstar](https://github.com/KOMAL-3008/Certificates/blob/main/hotstar.ico)
-
----
-
-### 🏆🥇Certifications
-**My Certificates**
-
-📈👩🏻‍💻📉**Data Analyst Certification** 
-
-![Cisco Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/cisco.ico)![Linkdin Learning and Microsoft Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/microsoft%20and%20linkdin%20.ico)![Great Learning Data Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/Great%20Learning%20Data%20Analyst.ico)
-
----
-
-👩🏻‍💼📊 **Business Analyst Certification**
-
-![Business Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/business.ico)![HP Business Analyst Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/HP%20business%20analyst.ico)
-
----
-
-👩🏻‍🔬 ⚛︎ **Data Science Certification**
-
-![Linkdin Learning Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/data%20science.ico)![HP Data Science Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/HP%20ANALYST.ico)
-
----
-
-:octocat: **GITHUB BOOTCAMP COURSE CERTIFICATE**
-
-![Github Certificate](https://github.com/KOMAL-3008/Certificates/blob/main/github.ico)
-
----
-
-🛡️🎓**Cisco Badge**
-
--  **Link of badge** from **CISCO** https://www.credly.com/badges/65836f6d-3ec7-4d41-b788-09d96025e162/linked_in?t=smkxpy
-
-![Cisco Badge](https://github.com/KOMAL-3008/Certificates/blob/main/badge.ico)
-
----
-
-📜🎓**Udemy Certification**
-
-![Excel udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel.ico)![Data Framework udemy](https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework.ico)![Data Cleaning udemy](https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning.ico)
-
----
-
-📜🎓**Kulturehire Certification**
-
-![Excel2](https://github.com/KOMAL-3008/Certificates/blob/main/Ms%20Excel%202.ico)![Data Framework2](https://github.com/KOMAL-3008/Certificates/blob/main/Data%20Framework%202.ico)![Data Cleaning2](https://github.com/KOMAL-3008/Certificates/blob/main/data%20cleaning%202.ico)![problem solving+chatGPT](https://github.com/KOMAL-3008/Certificates/blob/main/problem%20solving%20%2B%20ChatGPT.ico)![servey + chatGPT](https://github.com/KOMAL-3008/Certificates/blob/main/servey%20design%20%2B%20ChatGPT.ico)
-
----
-
-
-
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-thakur-037b27232/) 
