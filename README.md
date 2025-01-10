@@ -49,11 +49,11 @@ I'm a **Data Analyst** and **Business Analyst** with a Bachelor's Degree in Comm
 🤝 Team Collaboration
 
 ---
-### Education & Experience
+### 🎓Education & Experience
 
-- 🎓 **Bachelor's in Commerce** from University of Delhi, 2023
+-  **Bachelor's in Commerce** from University of Delhi, 2023
   
- ### 🏅Internship's Experience
+### 🏅Internship's Experience
  
 - @KultureHire Internship In **DATA ANALYTICS** and **BUSINESS ANALYTICS**, 2024
 - @Oasis Infobyte Internship In **DATA ANALYTICS**, 2024-2025
